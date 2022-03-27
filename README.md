@@ -1,2 +1,2 @@
-- 👋 Hi, I’m ~~@ShevTim ~~
+- 👋 Hi, I’m ~~@ShevTim~~
 - Можно просто чмоня
